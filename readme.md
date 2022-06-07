@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact **I never take notes, rather love to code to make them simpler**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-** comming soon... **
+<!-- ** comming soon... ** -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3 align="left">Connect with me:</h3>
