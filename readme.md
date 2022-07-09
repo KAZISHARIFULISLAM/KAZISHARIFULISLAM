@@ -1,9 +1,15 @@
-# <h1 align="center">Hi 👋, I'm Kazi Shariful Islam</h1>
-### <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<a href="https://app.daily.dev/kazi331"><img src="https://api.daily.dev/devcards/78aa67bf27964fd3864ee8e8218c8397.png?r=b70" width="400" alt="Kazi Shariful Islam's Dev Card"/></a>
+
+# <h1 align="">Hi 👋, I'm Kazi Shariful Islam</h1>
+### <h3 align="" style="margin-bottom: 30px">A passionate frontend developer from Bangladesh</h3>
+##
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazisharifulislam&label=Profile%20views&color=0e75b6&style=flat" alt="kazisharifulislam" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazisharifulislam" alt="kazisharifulislam" /></a> </p> -->
+
+
 
 <p align="left"> <a href="https://twitter.com/dev_kazi" target="blank"><img src="https://img.shields.io/twitter/follow/dev_kazi?logo=twitter&style=for-the-badge" alt="Kazi Shariful Islam" /></a> </p>
 
@@ -41,5 +47,5 @@
 
 ![Kazi Shariful Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazi331&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazi331&layout=&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazi331&layout=&theme=tokyonight)
