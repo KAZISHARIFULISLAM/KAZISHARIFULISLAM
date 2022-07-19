@@ -1,7 +1,5 @@
 <!-- <a href="https://app.daily.dev/kazi331"><img src="https://api.daily.dev/devcards/78aa67bf27964fd3864ee8e8218c8397.png?r=b70" width="400" alt="Kazi Shariful Islam's Dev Card"/></a> -->
 
-<a href="https://app.daily.dev/kazi331"><img src="https://github.com/kazi331/kazi331/blob/main/devcard.svg" width="400" alt="Kazi Shariful Islam's Dev Card"/></a>
-
 # <h1 align="">Hi 👋, I'm Kazi Shariful Islam</h1>
 ### <h3 align="" style="margin-bottom: 30px">A passionate frontend developer from Bangladesh</h3>
 ##
@@ -50,3 +48,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazi331&layout=&theme=tokyonight)
+
+<a href="https://app.daily.dev/kazi331"><img src="https://github.com/kazi331/kazi331/blob/main/devcard.svg" width="400" alt="Kazi Shariful Islam's Dev Card"/></a>
