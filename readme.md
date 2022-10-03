@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **Node JS, MongoDB, React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaziSharifulIslam/](https://github.com/KaziSharifulIslam/)
+- 👨‍💻 All of my projects are available at [https://github.com/kazi331/](https://github.com/kazi331/)
 
 - 💬 Ask me about **javascript, react**
 
-- 📄 Know about my experiences [https://github.com/KaziSharifulIslam/](https://github.com/KaziSharifulIslam/)
+- 📄 Know about my experiences [https://github.com/kazi331/](https://github.com/kazi331/)
 
 - ⚡ Fun fact **I never take notes, rather love to code to make them simpler**
 
