@@ -48,5 +48,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazi331&layout=&theme=tokyonight)
-
-<a href="https://app.daily.dev/kazi331"><img src="https://github.com/kazi331/kazi331/blob/main/devcard.svg" width="400" alt="Kazi Shariful Islam's Dev Card"/></a>
+ 
+<!-- <a href="https://app.daily.dev/kazi331"><img src="https://github.com/kazi331/kazi331/blob/main/devcard.svg" width="400" alt="Kazi Shariful Islam's Dev Card"/></a> -->
