@@ -1,49 +1,116 @@
-<!-- From Rifat Vai -->
+## Hi, Welcome to my profile <img src="https://github.com/learnwithsumit/learnwithsumit/blob/main/assets/hello.gif" width="28px" alt="hi">
+<!-- skills -->
+<br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+:hearts: I enjoy programming and love to solve problem <br/>
+:computer: Most used line of code `console.log("Hey, Welcome!")` <br/>
+🤔 I’m looking for a frontend developer position.<br/>
+:e-mail: How to reach me: kazisharifulislam52@gmail.com.<br/>
+📄 Know about my experiences [https://github.com/kazi331/](https://github.com/kazi331/) <br/>
+⚡ Fun fact- I don't take notes, instead, I love to code repeatedly to make them simpler. </br>
+
+#### ☕Connect with me!
+ 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kazi331) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi331/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_kazi) 
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/kazi331) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_kazi) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazisharifulislam52@gmail.com)
+
+
+#### :computer: Technology I work with
+
+<!-- [![HTML5 Badge](https://img.shields.io/badge/-html5-DD4B25?style=for-the-badge&labelColor=black&logo=html5&logoColor=DD4B25)](#) -->
+<!-- [![CSS3 Badge](https://img.shields.io/badge/-CSS3-008DC4?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=008DC4)](#) -->
+<!-- [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)  -->
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next.js Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&labelColor=white&logo=nextdotjs&logoColor=black)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-6B9F5C?style=for-the-badge&labelColor=black&logo=express&logoColor=6B9F5C)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-118B4B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=118B4B)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1D89D1?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=1D89D1)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=E84E31)](#)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-1D89D1?style=for-the-badge&labelColor=000000&logo=tailwindcss&logoColor=1D89D1)](#)
+<!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+
+### My projects
+<table>
+  <thead align="left">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Source Code</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://kazi-sharif.web.app" target="_blank">My Portfolio</a></td>
+      <td>Kazi Shariful Islam - A passionate MERN Stack Developer</td>
+      <td><a href="https://github.com/kazi331/custom-portfolio" target="_blank">Github</a></td>
+    </tr>
+    <tr>
+      <td> React Blog </td>
+      <td> Dev.to blog clone  </td>
+      <td> <a href="https://github.com/kazi331/react-blog">Github</a> </td>
+    </tr>
+    <tr>
+      <td> Superstar Electronics </td>
+      <td> Electronics Product Management Webstore for better product management  </td>
+      <td>
+        <a href="https://github.com/kazi331/Manufacturer-webstore">Client</a>
+        <a href="https://github.com/kazi331/manufacturer-website-server">API</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Phoenix Inventory </td>
+      <td> Phoenix Inventory Management sytem for vendors </td>
+      <td>
+        <a href="https://github.com/kazi331/Warehouse-management">Client</a>
+        <a href="https://github.com/kazi331/Warehouse-management-server">API</a>
+      </td>
+    </tr>
+    <tr>
+      <td> KachaBazar Grocery Shop </td>
+      <td> KachaBazar Grocery Shop - A Grocery shop for vendors and customers </td>
+      <td>
+        <a href="https://github.com/kazi331/next.js-redux-ecommerce">Client</a>
+        <a href="https://github.com/kazi331/next.js-redux-ecommerce">API</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<details>
+<summary>
+  Want to learn more...?
+</summary>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+This+is+Kazi+Shariful+Islam;I'm+a+passionate+MERN+Stack+Developer;I+build+Web+Application+with+React+&+Node;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kazi331&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi331&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!--  Social and skills -->
+</details>
 
-### Skills
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Kazi331-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Kazi331-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Kazi331-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Kazi331-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Kazi331-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Kazi331-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    <img align="center" alt="Kazi331-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    <img align="right" alt="Kazi331-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966?width=676&height=676">
-</div>
-  
-  ## Social
- 
-<div style="margin-bottom: 30px">
-<a href="https://www.facebook.com/kazi331" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/dev_kazi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/dev_kazi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@me/beluga/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:kazisharifulislam52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kazi331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
 
 <!--  Graph -->
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=kazi331&theme=gotham&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=kazi331&theme=gotham&hide_border=true&area=true) -->
 
 <!--
+
+
 
 My old code
 -->
@@ -71,7 +138,9 @@ My old code
 
 - 📄 Know about my experiences [https://github.com/kazi331/](https://github.com/kazi331/)
 
-- ⚡ Fun fact **I never take notes, rather love to code to make them simpler** -->
+- ⚡ Fun fact **I never take notes, rather love to code to make them simpler.
+
+** -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
