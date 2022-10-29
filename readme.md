@@ -1,7 +1,7 @@
-## Hi, Welcome to my profile <img src="https://github.com/learnwithsumit/learnwithsumit/blob/main/assets/hello.gif" width="28px" alt="hi">
-<!-- skills -->
-<br/>
+#### Hi Beautiful People, Welcome to my profile <img src="https://github.com/learnwithsumit/learnwithsumit/blob/main/assets/hello.gif" width="28px" alt="hi">
 
+
+<!-- skills -->
 
 :hearts: I enjoy programming and love to solve problem <br/>
 :computer: Most used line of code `console.log("Hey, Welcome!")` <br/>
@@ -24,19 +24,23 @@
 
 <!-- [![HTML5 Badge](https://img.shields.io/badge/-html5-DD4B25?style=for-the-badge&labelColor=black&logo=html5&logoColor=DD4B25)](#) -->
 <!-- [![CSS3 Badge](https://img.shields.io/badge/-CSS3-008DC4?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=008DC4)](#) -->
-<!-- [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)  -->
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+
+[![JS Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![React Badge](https://img.shields.io/badge/-React.js-008DC4?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&labelColor=white&logo=nextdotjs&logoColor=black)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![TS Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-1D89D1?style=for-the-badge&labelColor=000000&logo=tailwindcss&logoColor=1D89D1)](#)
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) <br>
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-6B9F5C?style=for-the-badge&labelColor=black&logo=express&logoColor=6B9F5C)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-118B4B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=118B4B)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-3C873A?style=for-the-badge&labelColor=black&logo=express&logoColor=3C873A)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-118B4B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=118B4B)](#) 
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1D89D1?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=1D89D1)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=E84E31)](#)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-1D89D1?style=for-the-badge&labelColor=000000&logo=tailwindcss&logoColor=1D89D1)](#)
+
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
+
+
 
 
 ### My projects
