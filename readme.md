@@ -54,7 +54,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://kazi-sharif.web.app" target="_blank">My Portfolio</a></td>
+      <td><a href="https://kazi331.vercel.app" target="_blank">My Portfolio</a></td>
       <td>Kazi Shariful Islam - A passionate MERN Stack Developer</td>
       <td><a href="https://github.com/kazi331/custom-portfolio" target="_blank">Github</a></td>
     </tr>
