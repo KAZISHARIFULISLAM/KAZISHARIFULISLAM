@@ -11,13 +11,12 @@
 ⚡ Fun fact- I don't take notes, instead, I love to code repeatedly to make them simpler. </br>
 
 ☕ Connect with me!
- 
-<!--- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kazi331) --->
+
+[![X ](https://img.shields.io/twitter/follow/kazi__bd?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/kazi__bd)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kazi331)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi331/) 
-[![Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dev_kazi) 
-[![Discord ](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/kazi331) 
-[![Twitter ](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dev_kazi) 
-[![Mail ](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kazisharifulislam52@gmail.com)
+[![Gmail ](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&style=for-the-badge)](mailto:kazisharifulislam52@gmail.com) <br/>
+
 
 
 🧑‍💻 Tech Skills
@@ -27,13 +26,13 @@
 <!-- [![TS](https://img.shields.io/badge/-Typescript-007acc?style=plastic&labelColor=black&logo=typescript&logoColor=007acc)](#)  -->
 <!-- [![SASS](https://img.shields.io/badge/Sass-CC6699?style=plastic&labelColor=black&logo=sass&logoColor=CC6699)](#) -->
 
-[![JS](https://img.shields.io/badge/-Javascript-F0DB4F?style=plastic&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React](https://img.shields.io/badge/-React-008DC4?style=plastic&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next](https://img.shields.io/badge/next-black?style=plastic&labelColor=white&logo=nextdotjs&logoColor=black)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind-1D89D1?style=plastic&labelColor=000000&logo=tailwindcss&logoColor=1D89D1)](#)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=plastic&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express](https://img.shields.io/badge/Express-3C873A?style=plastic&labelColor=black&logo=express&logoColor=3C873A)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-118B4B?style=plastic&labelColor=black&logo=mongodb&logoColor=118B4B)](#) 
+[![JS](https://img.shields.io/badge/-Javascript-F0DB4F?style=style=flat-square&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![React](https://img.shields.io/badge/-React-008DC4?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next](https://img.shields.io/badge/next-black?style=flat-square&labelColor=white&logo=nextdotjs&logoColor=black)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-1D89D1?style=flat-square&labelColor=000000&logo=tailwindcss&logoColor=1D89D1)](#)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express](https://img.shields.io/badge/Express-3C873A?style=flat-square&labelColor=black&logo=express&logoColor=3C873A)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-118B4B?style=flat-square&labelColor=black&logo=mongodb&logoColor=118B4B)](#) 
 <!-- [![VSCode](https://img.shields.io/badge/Visual_Studio-1D89D1?style=plastic&labelColor=black&logo=visual%20studio&logoColor=1D89D1)](#) -->
 <!-- [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&labelColor=black&logo=git&logoColor=E84E31)](#) -->
 
