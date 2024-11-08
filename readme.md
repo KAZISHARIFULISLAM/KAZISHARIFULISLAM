@@ -6,16 +6,16 @@
 :hearts: I enjoy programming and love to solve problem <br/>
 :computer: Most used line of code `console.log("Hey, Welcome!")` <br/>
 🤔 I’m looking for a frontend developer position.<br/>
-:e-mail: How to reach me: kazisharifulislam52@gmail.com.<br/>
+:e-mail: How to reach me: kazisharif.dev@gmail.com.<br/>
 📄 Know about my experiences [https://github.com/kazi331/](https://github.com/kazi331/) <br/>
 ⚡ Fun fact- I don't take notes, instead, I love to code repeatedly to make them simpler. </br>
 
 ☕ Connect with me!
 
-[![X ](https://img.shields.io/twitter/follow/kazi__bd?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/kazi__bd)  
+[![X ](https://img.shields.io/twitter/follow/dev__kazi?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/dev__kazi)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kazi331)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi331/) 
-[![Gmail ](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&style=for-the-badge)](mailto:kazisharifulislam52@gmail.com) <br/>
+[![Gmail ](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&style=for-the-badge)](mailto:kazisharif.dev@gmail.com) <br/>
 
 
 
